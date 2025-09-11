@@ -1,2 +1,2 @@
-# Pairs-Trading-Statistical-Arbitrage-Backtest
-Building and backtesting a z-score based trading strategy
+# Pairs-Trading
+Building and backtesting a mean reversion pairs trading strategy
