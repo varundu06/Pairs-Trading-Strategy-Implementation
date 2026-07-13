@@ -29,5 +29,5 @@ Thin cost model (1bp slippage, no borrow or financing costs), a single pair,
 and a small trade count. The notebook discusses each.
 
 ## Run
-pip install yfinance pandas statsmodels matplotlib 
-Open Pairs_Trading_train_test_split.ipynb and run top to bottom. 
+pip install yfinance pandas statsmodels matplotlib  
+Open Pairs_Trading_train_test_split.ipynb and run top to bottom.
