@@ -17,8 +17,8 @@ train/test split so that pair selection never sees the evaluation data.
   that played no role in pair selection or parameter choices.
 
 ## Out-of-sample results
-Sharpe: 0.83
-Max Drawdown: - 7.3%
+Sharpe: 0.83,   
+Max Drawdown: -7.3%,   
 Trades: 12
 
 The same strategy evaluated in-sample scores 1.4, i.e. selection bias alone
